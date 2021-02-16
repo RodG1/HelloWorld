@@ -1,0 +1,4 @@
+chipset driver 0gf02
+killer wifi
+uhd graphics
+nvidia
